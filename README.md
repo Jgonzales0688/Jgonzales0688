@@ -14,7 +14,7 @@
 
 🌟 **About Me:**
 
-As an aspiring software engineer, I'm embarking on a journey of coding excellence. My journey spans an array of programming languages, including Go, C#, C++, HTML, SQL, Java, JavaScript, and Bash. My toolkit also encompasses an impressive array of technologies like Jira, Confluence, Kubernetes, Docker, ASP.Net MVC, ASP.Net Web API, WPF, Dapper, REST API, and Postman.
+As an aspiring software engineer, I'm embarking on a journey of coding excellence. My journey spans an array of programming languages, including Go, C#, C++, SQL, Java, and Bash. My toolkit also encompasses an impressive array of technologies like Jira, Confluence, Kubernetes, Docker, ASP.Net MVC, ASP.Net Web API, Dapper, and REST API.
 
 🛠️ **Crafting Solutions:**
 
